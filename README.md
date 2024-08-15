@@ -1,4 +1,4 @@
-![logo](https://github.com/CodeSprintX/CodeSprintX/blob/main/Git%20hub%20Banner.png)
+![logo](https://github.com/CodeSprintX/CodeSprintX/blob/main/Git%20hub%20Bannerrr.png)
 <h1 align="center">Hi 👋, I'm Piyush Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
