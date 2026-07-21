@@ -16,7 +16,7 @@
   <a href="https://github.com/CodeSprintX?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" />
   </a>
-  <a href="https://linkedin.com/in/piyush%20verma">
+  <a href="https://www.linkedin.com/in/piyush-verma-a73369378/">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
   </a>
 </p>
@@ -73,6 +73,7 @@ Prototyping inventory, attendance, and payroll tools designed around the day-to-
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=10" alt="Developer tools" />
 </p>
 
+## GitHub Snapshot
 
 <div align="center">
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeSprintX&theme=github_dark" alt="Piyush's GitHub profile summary" />
@@ -82,14 +83,15 @@ Prototyping inventory, attendance, and payroll tools designed around the day-to-
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeSprintX&theme=github_dark" alt="Piyush's most used languages" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeSprintX&theme=github_dark" alt="Piyush's GitHub statistics" />
 </div>
+
 ## Let's Connect
 
 I'm interested in opportunities where I can contribute to useful products, learn from strong engineering teams, and grow across software development and applied AI.
 
 <p align="left">
-  <a href="https://linkedin.com/in/piyush%20verma"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/piyush-verma-a73369378/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn — Piyush Verma" /></a>
   <a href="https://twitter.com/piyush93871070"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" /></a>
-  <a href="https://instagram.com/piyushverma8201"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://instagram.com/kimisfearless"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram — @kimisfearless" /></a>
 </p>
 
 <p align="center">
