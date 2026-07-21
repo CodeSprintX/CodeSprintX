@@ -90,7 +90,6 @@ I'm interested in opportunities where I can contribute to useful products, learn
 
 <p align="left">
   <a href="https://www.linkedin.com/in/piyush-verma-a73369378/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn — Piyush Verma" /></a>
-  <a href="https://twitter.com/piyush93871070"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" /></a>
   <a href="https://instagram.com/kimisfearless"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram — @kimisfearless" /></a>
 </p>
 
