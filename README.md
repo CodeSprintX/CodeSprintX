@@ -73,17 +73,15 @@ Prototyping inventory, attendance, and payroll tools designed around the day-to-
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=10" alt="Developer tools" />
 </p>
 
-## GitHub Snapshot
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeSprintX&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Piyush's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSprintX&layout=compact&hide_border=true&theme=transparent" alt="Piyush's most used languages" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeSprintX&theme=github_dark" alt="Piyush's GitHub profile summary" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeSprintX&hide_border=true&theme=transparent" alt="Piyush's GitHub contribution streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeSprintX&theme=github_dark" alt="Piyush's most used languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeSprintX&theme=github_dark" alt="Piyush's GitHub statistics" />
 </div>
-
 ## Let's Connect
 
 I'm interested in opportunities where I can contribute to useful products, learn from strong engineering teams, and grow across software development and applied AI.
