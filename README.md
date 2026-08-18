@@ -1,70 +1,81 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CodeSprintX/CodeSprintX/main/Github%20Banner.png" alt="Piyush Verma - Developer Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Piyush Verma 👋</h1>
 
 <p align="center">
-  AI &amp; ML Undergraduate | Full-Stack Developer
+  <strong>AI &amp; ML Undergraduate · Full-Stack Developer · Software &amp; Embedded Systems Intern</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/piyush-verma-a73369378/">LinkedIn</a> •
-  <a href="mailto:piyushfreedom1947@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/piyush-verma-a73369378/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:piyushfreedom1947@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/CodeSprintX?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub repositories" />
+  </a>
 </p>
 
-About Me
+## About Me
 
-B.Tech student in Artificial Intelligence & Machine Learning at VIPS-TC, Delhi with a CGPA of 8.67/10.
+I am a B.Tech student in **Artificial Intelligence & Machine Learning** at **VIPS-TC, Delhi**, with a **CGPA of 8.67/10**. I build full-stack and AI-powered applications, and I also work on software and embedded-system interfaces for biomedical equipment.
 
-I build full-stack applications using React, Node.js, Express and PostgreSQL.
+- Building with **React, Node.js, Express, PostgreSQL and AI APIs**
+- Working with **DWIN DGUS HMI, PIC/Arduino controllers and UART communication**
+- Interested in applied AI, reliable software systems and meaningful product development
+- Open to software engineering, full-stack and AI/ML internship opportunities
 
-Interested in applied AI, software development and embedded systems.
+## Featured Projects
 
-Open to software engineering, full-stack and AI/ML internship opportunities.
+### QickAI
 
-Research Publication
+An AI-powered web platform for article and blog generation, image generation and editing, and PDF resume review. It includes authentication, subscriptions, creation history and community sharing.
 
-Investigating SAR Image Enhancement and Terrain Classification Using Deep Learning Models
+`React.js` · `Node.js` · `Express.js` · `Gemini API` · `PostgreSQL` · `Clerk` · `Cloudinary`
 
-Co-author | ICDMIS 2025 | Springer LNNS, Vol. 1969 | Published June 2026
+[GitHub Repository](https://github.com/CodeSprintX/QickAi) · [Live Demo](https://qick-ai.vercel.app/)
 
-Evaluated GAN, CNN and autoencoder pipelines for SAR image enhancement and terrain classification using 16,000 paired Sentinel-1 and Sentinel-2 images.
+### FlipEarn
 
-View on Springer | DOI
+A full-stack marketplace with listing management, search and filtering, buyer-seller chat, payments, transaction workflows and a role-protected admin dashboard.
 
-Projects
+`React.js` · `Redux Toolkit` · `Node.js` · `Prisma` · `PostgreSQL` · `Clerk` · `Stripe` · `ImageKit`
 
-QickAI
+[GitHub Repository](https://github.com/CodeSprintX/flipea) · [Live Demo](https://flipea-jw3g.vercel.app/)
 
-An AI-powered web application for article and blog generation, image generation and editing, and PDF resume review.
+## Research Publication
 
-Tech: React.js, Node.js, Express.js, Gemini API, PostgreSQL, Clerk, Cloudinary
+### Investigating SAR Image Enhancement and Terrain Classification Using Deep Learning Models
 
-GitHub Repository | Live Demo
+**Co-author** · ICDMIS 2025 · Springer LNNS, Vol. 1969 · Published June 2026
 
-FlipEarn
+Evaluated GAN, CNN and autoencoder pipelines for SAR image enhancement and terrain classification using **16,000 paired Sentinel-1 and Sentinel-2 images**.
 
-A full-stack marketplace with listing management, search and filtering, buyer-seller chat, authentication, payments and an admin dashboard.
+[View on Springer](https://link.springer.com/chapter/10.1007/978-3-032-25949-3_10) · [DOI](https://doi.org/10.1007/978-3-032-25949-3_10)
 
-Tech: React.js, Redux Toolkit, Node.js, Prisma, PostgreSQL, Clerk, Stripe, ImageKit
+## Technologies
 
-GitHub Repository | Live Demo
-
-Tech Stack
-
+<p align="center"><strong>AI, ML &amp; Programming</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,java,cpp,c&perline=10" alt="AI, machine learning and programming technologies" />
 </p>
 
+<p align="center"><strong>Full-Stack Development</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,mongodb,postgres,prisma&perline=10" alt="Full-stack web development technologies" />
+  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,nodejs,express,mongodb,postgres,prisma&perline=10" alt="Full-stack web development technologies" />
 </p>
 
+<p align="center"><strong>Tools</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=10" alt="Development tools" />
 </p>
 
-Contact
+## Let's Connect
 
-LinkedIn
+I am interested in opportunities where I can contribute to useful products, learn from strong engineering teams and grow across software development and applied AI.
 
-GitHub
-
-Email
+**[LinkedIn](https://www.linkedin.com/in/piyush-verma-a73369378/)** · **[GitHub](https://github.com/CodeSprintX)** · **[Email](mailto:piyushfreedom1947@gmail.com)**
