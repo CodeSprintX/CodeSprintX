@@ -18,6 +18,9 @@
   <a href="https://github.com/CodeSprintX?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub repositories" />
   </a>
+  <a href="https://piyush-verma-portfolio-mu.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ## About Me
@@ -78,4 +81,4 @@ Evaluated GAN, CNN and autoencoder pipelines for SAR image enhancement and terra
 
 I am interested in opportunities where I can contribute to useful products, learn from strong engineering teams and grow across software development and applied AI.
 
-**[LinkedIn](https://www.linkedin.com/in/piyush-verma-a73369378/)** · **[GitHub](https://github.com/CodeSprintX)** · **[Email](mailto:piyushfreedom1947@gmail.com)**
+**[Portfolio](https://piyush-verma-portfolio-mu.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/piyush-verma-a73369378/)** · **[GitHub](https://github.com/CodeSprintX)** · **[Email](mailto:piyushfreedom1947@gmail.com)**
