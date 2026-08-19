@@ -77,8 +77,30 @@ Evaluated GAN, CNN and autoencoder pipelines for SAR image enhancement and terra
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=10" alt="Development tools" />
 </p>
 
-## Let's Connect
+---
 
-I am interested in opportunities where I can contribute to useful products, learn from strong engineering teams and grow across software development and applied AI.
+## 📬 Connect With Me
 
-**[Portfolio](https://piyush-verma-portfolio-mu.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/piyush-verma-a73369378/)** · **[GitHub](https://github.com/CodeSprintX)** · **[Email](mailto:piyushfreedom1947@gmail.com)**
+<div align="center">
+
+<a href="https://www.linkedin.com/in/piyush-verma-a73369378/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/CodeSprintX">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="mailto:piyushfreedom1947@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://piyush-verma-portfolio-mu.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
+
+---
+
+⭐ _Building practical products at the intersection of software, AI, and real-world impact._
