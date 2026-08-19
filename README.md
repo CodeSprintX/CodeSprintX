@@ -90,11 +90,6 @@ Evaluated GAN, CNN and autoencoder pipelines for SAR image enhancement and terra
 <a href="https://github.com/CodeSprintX">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
-<a href="mailto:piyushfreedom1947@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
 <a href="https://piyush-verma-portfolio-mu.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
